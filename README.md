@@ -1,5 +1,5 @@
 # CLI utility
-This is utility created to help engineers, list all taco trucks or list menu specific trucks via CLI from [Mobile Food Facility Permit](https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat/data)
+This is a utility created to help engineers, get a list of all taco trucks or a list menu of the specific truck via CLI from [Mobile Food Facility Permit](https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat/data)
 
 [title](https://www.example.com)
 
@@ -15,7 +15,7 @@ python main.py -all
 
 ```
 
-**List all taco trucks including word "Tacos"**
+**List all taco trucks including the word "Tacos"**
 
 ```
 python main.py -name "Tacos"
