@@ -7,7 +7,7 @@ Changelog:
 ===============================================================================================================
 Date             Who               Version            Jira#              Description
 ===============================================================================================================
-10/27/2022     Baurzhan Siitov      1.0.0              #308        - initial script, with two options:
+10/27/2022     DevOps Engineer      1.0.0              #308        - initial script, with two options:
                                                                      -all,  get list of taco trucks
                                                                      -name, get menu of specific taco truck      
 
